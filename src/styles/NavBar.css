@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+
+.NavBar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: url("../assets/imagenes/gifnavbar.gif");
+    top: 0;
+}
+
+.NavBar__Ul {
+    color: white;
+    font-weight: bold;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.NavBar__Img {
+    height: 100px;
+    width:100px;   
+}

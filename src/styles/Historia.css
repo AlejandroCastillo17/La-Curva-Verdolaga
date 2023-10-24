@@ -1,0 +1,28 @@
+
+
+
+.Historia__ {
+    display: flex;
+    flex-wrap: wrap;
+    width: 770px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    min-width: 100vw;
+}
+
+.Historia__2 {
+    width: 750px;
+}
+
+.Historia__h1 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+#h2 {
+    text-align: center;
+}
