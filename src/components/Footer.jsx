@@ -9,9 +9,9 @@ const Footer = () => {
                 <h1 className="Footer__h1">Diego Alejandro Castillo Perez</h1>
                 <br />
                 <ul className="Footer__Ul">
-                    <li className="Ul__li"><a href=""><AiFillInstagram size={"40px"}/></a></li>
-                    <li className="Ul__li"><a href=""><AiFillFacebook size={"40px"}/></a></li>
-                    <li className="Ul__li"><a href=""><AiFillGithub size={"40px"}/></a></li>
+                    <li className="Ul__li"><a href="https://www.instagram.com/alejandro_castillo_77/?hl=es-la"><AiFillInstagram size={"40px"}/></a></li>
+                    <li className="Ul__li"><a href="https://www.facebook.com/diegoaljandro.castilloperez"><AiFillFacebook size={"40px"}/></a></li>
+                    <li className="Ul__li"><a href="https://github.com/AlejandroCastillo17"><AiFillGithub size={"40px"}/></a></li>
                     <br />
                 </ul>
                 <br />

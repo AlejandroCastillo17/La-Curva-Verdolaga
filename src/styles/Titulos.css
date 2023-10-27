@@ -1,0 +1,52 @@
+
+#Li_img {
+    width: 140px;
+    height: 200px;
+}
+
+#Li_img1 {
+    width: 350px;
+    height: 200px;
+}
+
+.Titulos {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-image: url(../assets/imagenes/nacional.gif);
+}
+
+.Titulos__ul, .Titulos__ul1 {
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    list-style:none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Titulos__ul1 {
+    margin-left: 200px;
+    margin-bottom: 80px;
+}
+
+.Titulos__ul{
+    margin-bottom: 0;
+}
+
+.Titulos__h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-top: 0;
+    color: white;
+}
+
+#Li_h2 {
+    color: white;
+}
+
+#Li_img:hover, #Li_img1{
+    transform:scale(1.1);
+}
+
