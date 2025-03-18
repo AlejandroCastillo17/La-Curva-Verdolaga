@@ -1,4 +1,4 @@
-import style from "../styles/inicioSesion.css"
+import style from "../styles/InicioSesion.css"
 
 const InicioSesion = () => {
     return (

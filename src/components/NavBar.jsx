@@ -1,5 +1,5 @@
 import styles from "../styles/NavBar.css"
-import imagen from "../assets/imagenes/logoAN.png" 
+import imagen from "../assets/imagenes/logoAn.png" 
 import { Link } from 'react-router-dom';
 
 const NavBar = () => {
